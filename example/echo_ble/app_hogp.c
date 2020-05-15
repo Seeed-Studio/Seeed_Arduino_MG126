@@ -1,7 +1,7 @@
 
 
 #include <string.h>
-#include "BSP.h"
+#include "bsp.h"
 #include "mg_api.h"
 
 #include <Arduino.h>

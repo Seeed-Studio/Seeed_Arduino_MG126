@@ -21,7 +21,6 @@
 
 #include <Arduino.h>
 #include "mg_api.h"
-#include "MG126_ble.h"
 #include "bsp.h"
 
 class MG126_Ble_Class 

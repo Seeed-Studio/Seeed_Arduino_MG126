@@ -1,6 +1,6 @@
 #ifndef __BSP_H
 #define __BSP_H
-#include "arduino.h"
+#include "Arduino.h"
 #include "spi_wrapper.h"
 #include "mg_api.h"
 

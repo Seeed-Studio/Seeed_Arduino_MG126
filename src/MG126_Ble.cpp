@@ -16,7 +16,7 @@
  * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-#include "MG126_ble.h"
+#include "MG126_Ble.h"
 MG126_Ble_Class::MG126_Ble_Class(int cs_pin,int irq_pin){
 	cs = cs_pin;
 	irq = irq_pin;
