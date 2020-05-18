@@ -13,7 +13,7 @@ before_install:
 script:
    - chmod +x seeed-arduino-ci.sh
    - cat $PWD/seeed-arduino-ci.sh
-   - bash $PWD/seeed-arduino-ci.sh test
+   - bash $PWD/seeed-arduino-ci.sh analog_output:uno/button:uno/echo_ble:uno/get_bat_vol:uno/rgb_led_matrix_control:uno/serial_transparent_transmission:uno/temp_humidity:uno
 
 notifications:
   email:
